@@ -1,0 +1,24 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    text-decoration: underline;
+}
+
+h3{
+    text-decoration: underline;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
+
+ul > li{
+    font-weight: bold;
+}
+
+ol > li{
+    color: red;
+}
